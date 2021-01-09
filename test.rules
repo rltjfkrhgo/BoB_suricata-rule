@@ -1,0 +1,56 @@
+alert tcp any any -> any 80 (msg:"gilgil.net access"; content:"GET /"; content:"Host: "; content:"gilgil.net"; sid:10010; rev:1;)
+
+alert tcp any any -> any 80 (msg:"netflix.com access"; content:"GET /"; content:"Host: "; content:"netflix.com"; sid:10020; rev:1;)
+
+alert tcp any any -> any 80 (msg:"qt.io access"; content:"GET /"; content:"Host: "; content:"qt.io"; sid:10030; rev:1;)
+
+alert tcp any any -> any 80 (msg:"naver.com access"; content:"GET /"; content:"Host: "; content:"naver.com"; sid:10040; rev:1;)
+alert udp any any -> any 53 (msg:"naver.com dns query"; content:"naver"; content:"com"; sid:10041; rev:1;)
+
+alert tcp any any -> any 80 (msg:"daum.net access"; content:"GET /"; content:"Host: "; content:"daum.net"; sid:10050; rev:1;)
+alert udp any any -> any 53 (msg:"daum.net dns query"; content:"daum"; content:"net"; sid:10051; rev:1;)
+
+alert tcp any any -> any 80 (msg:"pusan.ac.kr access"; content:"GET /"; content:"Host: "; content:"pusan.ac.kr"; sid:10060; rev:1;)
+alert udp any any -> any 53 (msg:"pusan.ac.kr dns query"; content:"pusan"; content:"ac"; content:"kr"; sid:10061; rev:1;)
+
+alert tcp any any -> any 80 (msg:"github.com access"; content:"GET /"; content:"Host: "; content:"github.com"; sid:10070; rev:1;)
+alert udp any any -> any 53 (msg:"github.com dns query"; content:"github"; content:"com"; sid:10071; rev:1;)
+
+alert tcp any any -> any 80 (msg:"google.com access"; content:"GET /"; content:"Host: "; content:"google.com"; sid:10080; rev:1;)
+alert udp any any -> any 53 (msg:"google.com dns query"; content:"google"; content:"com"; sid:10081; rev:1;)
+
+alert tcp any any -> any 80 (msg:"youtube.com access"; content:"GET /"; content:"Host: "; content:"youtube.com"; sid:10090; rev:1;)
+alert udp any any -> any 53 (msg:"youtube.com dns query"; content:"youtube"; content:"com"; sid:10091; rev:1;)
+
+alert tcp any any -> any 80 (msg:"danawa.com access"; content:"GET /"; content:"Host: "; content:"danawa.com"; sid:10100; rev:1;)
+alert udp any any -> any 53 (msg:"danawa.com dns query"; content:"danawa"; content:"com"; sid:10101; rev:1;)
+
+alert tcp any any -> any 80 (msg:"gitlab.com access"; content:"GET /"; content:"Host: "; content:"gitlab.com"; sid:10110; rev:1;)
+alert udp any any -> any 53 (msg:"gitlab.com dns query"; content:"gitlab"; content:"com"; sid:10111; rev:1;)
+
+alert tcp any any -> any 80 (msg:"kitribob.kr access"; content:"GET /"; content:"Host: "; content:"kitribob.kr"; sid:10120; rev:1;)
+alert udp any any -> any 53 (msg:"kitribob.kr dns query"; content:"kitribob"; content:"kr"; sid:10121; rev:1;)
+
+alert tcp any any -> any 80 (msg:"kitribob.wiki access"; content:"GET /"; content:"Host: "; content:"kitribob.wiki"; sid:10130; rev:1;)
+alert udp any any -> any 53 (msg:"kitribob.wiki dns query"; content:"kitribob"; content:"wiki"; sid:10131; rev:1;)
+
+alert tcp any any -> any 80 (msg:"coupang.com access"; content:"GET /"; content:"Host: "; content:"coupang.com"; sid:10140; rev:1;)
+alert udp any any -> any 53 (msg:"coupang.com dns query"; content:"coupang"; content:"com"; sid:10141; rev:1;)
+
+alert tcp any any -> any 80 (msg:"nexon.com access"; content:"GET /"; content:"Host: "; content:"nexon.com"; sid:10150; rev:1;)
+alert udp any any -> any 53 (msg:"nexon.com dns query"; content:"nexon"; content:"com"; sid:10151; rev:1;)
+
+alert tcp any any -> any 80 (msg:"facebook.com access"; content:"GET /"; content:"Host: "; content:"facebook.com"; sid:10160; rev:1;)
+alert udp any any -> any 53 (msg:"facebook.com dns query"; content:"facebook"; content:"com"; sid:10161; rev:1;)
+
+alert tcp any any -> any 80 (msg:"11st.co.kr access"; content:"GET /"; content:"Host: "; content:"11st.co.kr"; sid:10170; rev:1;)
+alert udp any any -> any 53 (msg:"11st.co.kr dns query"; content:"11st"; content:"co"; content:"kr"; sid:10171; rev:1;)
+
+alert tcp any any -> any 80 (msg:"overleaf.com access"; content:"GET /"; content:"Host: "; content:"overleaf.com"; sid:10180; rev:1;)
+alert udp any any -> any 53 (msg:"overleaf.com dns query"; content:"overleaf"; content:"com"; sid:10181; rev:1;)
+
+alert tcp any any -> any 80 (msg:"gmarket.co.kr access"; content:"GET /"; content:"Host: "; content:"gmarket.co.kr"; sid:10190; rev:1;)
+alert udp any any -> any 53 (msg:"gmarket.co.kr dns query"; content:"gmarket"; content:"co"; content:"kr"; sid:10191; rev:1;)
+
+alert tcp any any -> any 80 (msg:"coinone.co.kr access"; content:"GET /"; content:"Host: "; content:"coinone.co.kr"; sid:10200; rev:1;)
+alert udp any any -> any 53 (msg:"coinone.co.kr dns query"; content:"coinone"; content:"co"; content:"kr"; sid:10201; rev:1;)

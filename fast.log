@@ -1,0 +1,252 @@
+01/09/2021-11:44:49.015702  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:36609 -> 192.168.222.2:53
+01/09/2021-11:44:49.016061  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:36672 -> 192.168.222.2:53
+01/09/2021-11:44:49.047039  [**] [1:10040:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:43682 -> 223.130.195.200:80
+01/09/2021-11:44:49.060557  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:48278 -> 192.168.222.2:53
+01/09/2021-11:44:49.060756  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:44362 -> 192.168.222.2:53
+01/09/2021-11:44:49.064986  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:50154 -> 192.168.222.2:53
+01/09/2021-11:44:49.094799  [**] [1:10040:1] naver.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:50140 -> 125.209.222.141:80
+01/09/2021-11:44:49.243446  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:37519 -> 192.168.222.2:53
+01/09/2021-11:44:49.263790  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:47960 -> 192.168.222.2:53
+01/09/2021-11:44:50.123708  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54671 -> 192.168.222.2:53
+01/09/2021-11:44:50.123858  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:35905 -> 192.168.222.2:53
+01/09/2021-11:44:50.214885  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:56230 -> 192.168.222.2:53
+01/09/2021-11:44:50.215018  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:50991 -> 192.168.222.2:53
+01/09/2021-11:44:50.216639  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:42322 -> 192.168.222.2:53
+01/09/2021-11:44:50.216799  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:40729 -> 192.168.222.2:53
+01/09/2021-11:44:50.218404  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:52262 -> 192.168.222.2:53
+01/09/2021-11:44:50.219978  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:48253 -> 192.168.222.2:53
+01/09/2021-11:44:50.322355  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:51719 -> 192.168.222.2:53
+01/09/2021-11:44:50.322582  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:39901 -> 192.168.222.2:53
+01/09/2021-11:44:50.325422  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:36671 -> 192.168.222.2:53
+01/09/2021-11:44:50.325560  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:44071 -> 192.168.222.2:53
+01/09/2021-11:44:50.328546  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:41233 -> 192.168.222.2:53
+01/09/2021-11:44:50.399937  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:59554 -> 192.168.222.2:53
+01/09/2021-11:44:50.400013  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:49767 -> 192.168.222.2:53
+01/09/2021-11:44:50.408092  [**] [1:10041:1] naver.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:47533 -> 192.168.222.2:53
+01/09/2021-11:44:57.935444  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:57345 -> 192.168.222.2:53
+01/09/2021-11:44:57.935653  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54217 -> 192.168.222.2:53
+01/09/2021-11:44:57.978598  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:51992 -> 211.231.99.80:80
+01/09/2021-11:44:58.132741  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:60312 -> 192.168.222.2:53
+01/09/2021-11:44:58.132876  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:57915 -> 192.168.222.2:53
+01/09/2021-11:44:58.139889  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:48399 -> 192.168.222.2:53
+01/09/2021-11:44:58.173853  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:40926 -> 211.231.99.17:80
+01/09/2021-11:44:58.285814  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:37597 -> 192.168.222.2:53
+01/09/2021-11:44:58.285993  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:52002 -> 192.168.222.2:53
+01/09/2021-11:44:58.294500  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:60270 -> 192.168.222.2:53
+01/09/2021-11:44:58.294600  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:48450 -> 192.168.222.2:53
+01/09/2021-11:44:58.458825  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:33419 -> 192.168.222.2:53
+01/09/2021-11:44:58.458997  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:41557 -> 192.168.222.2:53
+01/09/2021-11:44:58.460796  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:42568 -> 192.168.222.2:53
+01/09/2021-11:44:58.460892  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:53580 -> 192.168.222.2:53
+01/09/2021-11:44:58.468567  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:43243 -> 192.168.222.2:53
+01/09/2021-11:44:58.477152  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:55226 -> 192.168.222.2:53
+01/09/2021-11:44:58.740483  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:36915 -> 192.168.222.2:53
+01/09/2021-11:44:58.740605  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:55593 -> 192.168.222.2:53
+01/09/2021-11:44:59.164172  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:38606 -> 192.168.222.2:53
+01/09/2021-11:44:59.164317  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:44221 -> 192.168.222.2:53
+01/09/2021-11:44:59.213262  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:60035 -> 192.168.222.2:53
+01/09/2021-11:44:59.213388  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:59982 -> 192.168.222.2:53
+01/09/2021-11:44:59.214235  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:42813 -> 192.168.222.2:53
+01/09/2021-11:44:59.214342  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:51594 -> 192.168.222.2:53
+01/09/2021-11:44:59.219184  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:49307 -> 192.168.222.2:53
+01/09/2021-11:44:59.448522  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:60286 -> 192.168.222.2:53
+01/09/2021-11:44:59.448715  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:45014 -> 192.168.222.2:53
+01/09/2021-11:44:59.453373  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:58641 -> 192.168.222.2:53
+01/09/2021-11:44:59.453497  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:58872 -> 192.168.222.2:53
+01/09/2021-11:44:59.459236  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:56126 -> 192.168.222.2:53
+01/09/2021-11:45:00.611621  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54268 -> 192.168.222.2:53
+01/09/2021-11:45:00.611798  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:40431 -> 192.168.222.2:53
+01/09/2021-11:45:00.615050  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:39684 -> 192.168.222.2:53
+01/09/2021-11:45:07.028748  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:51355 -> 192.168.222.2:53
+01/09/2021-11:45:07.028928  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:42610 -> 192.168.222.2:53
+01/09/2021-11:45:07.128179  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55920 -> 113.29.187.36:80
+01/09/2021-11:45:07.221187  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:48830 -> 192.168.222.2:53
+01/09/2021-11:45:07.221452  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:42005 -> 192.168.222.2:53
+01/09/2021-11:45:07.225132  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:41822 -> 192.168.222.2:53
+01/09/2021-11:45:07.231331  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:42064 -> 192.168.222.2:53
+01/09/2021-11:45:07.231530  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:41487 -> 192.168.222.2:53
+01/09/2021-11:45:07.243413  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:40463 -> 192.168.222.2:53
+01/09/2021-11:45:07.246881  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:07.251392  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:50854 -> 27.0.236.149:80
+01/09/2021-11:45:07.251428  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:07.252174  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:50852 -> 27.0.236.149:80
+01/09/2021-11:45:07.254166  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:50850 -> 27.0.236.149:80
+01/09/2021-11:45:07.257062  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:50856 -> 27.0.236.149:80
+01/09/2021-11:45:07.306308  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:07.437059  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:07.505473  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55936 -> 113.29.187.36:80
+01/09/2021-11:45:07.538000  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:50265 -> 192.168.222.2:53
+01/09/2021-11:45:07.540651  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:40927 -> 192.168.222.2:53
+01/09/2021-11:45:07.654709  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:50850 -> 27.0.236.149:80
+01/09/2021-11:45:07.692909  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55948 -> 113.29.187.36:80
+01/09/2021-11:45:07.721524  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55952 -> 113.29.187.36:80
+01/09/2021-11:45:07.726636  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55950 -> 113.29.187.36:80
+01/09/2021-11:45:07.737698  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55946 -> 113.29.187.36:80
+01/09/2021-11:45:07.742953  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55956 -> 113.29.187.36:80
+01/09/2021-11:45:07.742692  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55954 -> 113.29.187.36:80
+01/09/2021-11:45:07.768018  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55958 -> 113.29.187.36:80
+01/09/2021-11:45:07.803119  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55960 -> 113.29.187.36:80
+01/09/2021-11:45:07.812646  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:07.820288  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:07.824105  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55966 -> 113.29.187.36:80
+01/09/2021-11:45:07.824158  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55964 -> 113.29.187.36:80
+01/09/2021-11:45:07.829326  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55962 -> 113.29.187.36:80
+01/09/2021-11:45:07.834716  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:07.841389  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:07.898510  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:48037 -> 192.168.222.2:53
+01/09/2021-11:45:07.898599  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54909 -> 192.168.222.2:53
+01/09/2021-11:45:07.899129  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:39655 -> 192.168.222.2:53
+01/09/2021-11:45:07.899187  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:52094 -> 192.168.222.2:53
+01/09/2021-11:45:07.902384  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:38038 -> 192.168.222.2:53
+01/09/2021-11:45:07.902465  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:33463 -> 192.168.222.2:53
+01/09/2021-11:45:07.902550  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:60051 -> 192.168.222.2:53
+01/09/2021-11:45:07.902614  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:60918 -> 192.168.222.2:53
+01/09/2021-11:45:07.909860  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54012 -> 192.168.222.2:53
+01/09/2021-11:45:07.913916  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:34862 -> 192.168.222.2:53
+01/09/2021-11:45:07.914116  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:33838 -> 192.168.222.2:53
+01/09/2021-11:45:07.914195  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:35006 -> 192.168.222.2:53
+01/09/2021-11:45:07.914291  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:41120 -> 192.168.222.2:53
+01/09/2021-11:45:07.916828  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:52575 -> 192.168.222.2:53
+01/09/2021-11:45:07.916933  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:49165 -> 192.168.222.2:53
+01/09/2021-11:45:07.918380  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:34801 -> 192.168.222.2:53
+01/09/2021-11:45:07.921029  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:57844 -> 192.168.222.2:53
+01/09/2021-11:45:07.926939  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:59635 -> 192.168.222.2:53
+01/09/2021-11:45:07.926837  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:46756 -> 192.168.222.2:53
+01/09/2021-11:45:07.943424  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:46886 -> 192.168.222.2:53
+01/09/2021-11:45:07.943530  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:41410 -> 192.168.222.2:53
+01/09/2021-11:45:07.945472  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:07.949750  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:59626 -> 192.168.222.2:53
+01/09/2021-11:45:07.949850  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:52356 -> 192.168.222.2:53
+01/09/2021-11:45:07.959216  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:33895 -> 192.168.222.2:53
+01/09/2021-11:45:07.959309  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:37302 -> 192.168.222.2:53
+01/09/2021-11:45:07.974841  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:55967 -> 192.168.222.2:53
+01/09/2021-11:45:07.975334  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54633 -> 192.168.222.2:53
+01/09/2021-11:45:07.975493  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:46035 -> 192.168.222.2:53
+01/09/2021-11:45:07.975561  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:36740 -> 192.168.222.2:53
+01/09/2021-11:45:07.975650  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:41029 -> 192.168.222.2:53
+01/09/2021-11:45:07.982089  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:59417 -> 192.168.222.2:53
+01/09/2021-11:45:07.982172  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:52868 -> 192.168.222.2:53
+01/09/2021-11:45:07.984699  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:07.987380  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:56327 -> 192.168.222.2:53
+01/09/2021-11:45:07.987466  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:53796 -> 192.168.222.2:53
+01/09/2021-11:45:07.993046  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54809 -> 192.168.222.2:53
+01/09/2021-11:45:07.993107  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:40707 -> 192.168.222.2:53
+01/09/2021-11:45:07.994596  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:08.000885  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32852 -> 121.53.201.236:80
+01/09/2021-11:45:08.004446  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:48079 -> 192.168.222.2:53
+01/09/2021-11:45:08.005228  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54928 -> 192.168.222.2:53
+01/09/2021-11:45:08.005061  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:40665 -> 192.168.222.2:53
+01/09/2021-11:45:08.005461  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:49464 -> 192.168.222.2:53
+01/09/2021-11:45:08.016870  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:08.017851  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:57762 -> 192.168.222.2:53
+01/09/2021-11:45:08.036832  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32876 -> 121.53.201.236:80
+01/09/2021-11:45:08.046957  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:08.068888  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:08.075372  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32852 -> 121.53.201.236:80
+01/09/2021-11:45:08.078353  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32878 -> 121.53.201.236:80
+01/09/2021-11:45:08.083091  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:08.125340  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:08.136260  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:08.147947  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32852 -> 121.53.201.236:80
+01/09/2021-11:45:08.157483  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:08.169990  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32878 -> 121.53.201.236:80
+01/09/2021-11:45:08.205110  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:08.254263  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:55974 -> 113.29.187.36:80
+01/09/2021-11:45:08.271271  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:08.399464  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:08.406595  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:08.408107  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32878 -> 121.53.201.236:80
+01/09/2021-11:45:08.411478  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32852 -> 121.53.201.236:80
+01/09/2021-11:45:08.435471  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:08.442155  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:08.444719  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32878 -> 121.53.201.236:80
+01/09/2021-11:45:08.446632  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32852 -> 121.53.201.236:80
+01/09/2021-11:45:08.449293  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32876 -> 121.53.201.236:80
+01/09/2021-11:45:08.484496  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:08.487734  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:08.497936  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32852 -> 121.53.201.236:80
+01/09/2021-11:45:08.498435  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32878 -> 121.53.201.236:80
+01/09/2021-11:45:08.498809  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32876 -> 121.53.201.236:80
+01/09/2021-11:45:08.498900  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32880 -> 121.53.201.236:80
+01/09/2021-11:45:08.516949  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32830 -> 121.53.201.236:80
+01/09/2021-11:45:08.520105  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:08.524491  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32852 -> 121.53.201.236:80
+01/09/2021-11:45:08.524696  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32876 -> 121.53.201.236:80
+01/09/2021-11:45:08.525574  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32878 -> 121.53.201.236:80
+01/09/2021-11:45:08.528475  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32880 -> 121.53.201.236:80
+01/09/2021-11:45:08.860864  [**] [1:10050:1] daum.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:32840 -> 121.53.201.236:80
+01/09/2021-11:45:13.090865  [**] [1:10061:1] pusan.ac.kr dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:56559 -> 192.168.222.2:53
+01/09/2021-11:45:13.091019  [**] [1:10061:1] pusan.ac.kr dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:49968 -> 192.168.222.2:53
+01/09/2021-11:45:13.115855  [**] [1:10060:1] pusan.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:54644 -> 164.125.8.25:80
+01/09/2021-11:45:13.165265  [**] [1:10060:1] pusan.ac.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:54644 -> 164.125.8.25:80
+01/09/2021-11:45:14.016597  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:41148 -> 192.168.222.2:53
+01/09/2021-11:45:14.016739  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:53153 -> 192.168.222.2:53
+01/09/2021-11:45:19.716858  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:59129 -> 192.168.222.2:53
+01/09/2021-11:45:19.717411  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:35669 -> 192.168.222.2:53
+01/09/2021-11:45:19.758411  [**] [1:10140:1] coupang.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:60840 -> 99.86.151.159:80
+01/09/2021-11:45:19.846078  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:52198 -> 192.168.222.2:53
+01/09/2021-11:45:19.846217  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:48176 -> 192.168.222.2:53
+01/09/2021-11:45:20.170319  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:36578 -> 192.168.222.2:53
+01/09/2021-11:45:20.170436  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:51770 -> 192.168.222.2:53
+01/09/2021-11:45:20.180373  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:43618 -> 192.168.222.2:53
+01/09/2021-11:45:20.180493  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:35668 -> 192.168.222.2:53
+01/09/2021-11:45:20.182721  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:36441 -> 192.168.222.2:53
+01/09/2021-11:45:20.182860  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:52185 -> 192.168.222.2:53
+01/09/2021-11:45:20.189238  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:40009 -> 192.168.222.2:53
+01/09/2021-11:45:20.199436  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:56126 -> 192.168.222.2:53
+01/09/2021-11:45:20.199281  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:34724 -> 192.168.222.2:53
+01/09/2021-11:45:20.253321  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:60282 -> 192.168.222.2:53
+01/09/2021-11:45:20.253448  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:53084 -> 192.168.222.2:53
+01/09/2021-11:45:20.299775  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:34339 -> 192.168.222.2:53
+01/09/2021-11:45:20.299786  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:53372 -> 192.168.222.2:53
+01/09/2021-11:45:20.314809  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:40036 -> 192.168.222.2:53
+01/09/2021-11:45:20.314948  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:43020 -> 192.168.222.2:53
+01/09/2021-11:45:20.329025  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:35541 -> 192.168.222.2:53
+01/09/2021-11:45:20.333551  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:44962 -> 192.168.222.2:53
+01/09/2021-11:45:20.333654  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:46930 -> 192.168.222.2:53
+01/09/2021-11:45:20.477617  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:39135 -> 192.168.222.2:53
+01/09/2021-11:45:20.477734  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:44976 -> 192.168.222.2:53
+01/09/2021-11:45:21.150474  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:44199 -> 192.168.222.2:53
+01/09/2021-11:45:21.150692  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:34196 -> 192.168.222.2:53
+01/09/2021-11:45:21.299017  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:43092 -> 192.168.222.2:53
+01/09/2021-11:45:21.299165  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:45393 -> 192.168.222.2:53
+01/09/2021-11:45:21.510594  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:42997 -> 192.168.222.2:53
+01/09/2021-11:45:21.511552  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:45068 -> 192.168.222.2:53
+01/09/2021-11:45:21.516175  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:55796 -> 192.168.222.2:53
+01/09/2021-11:45:21.516450  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:56302 -> 192.168.222.2:53
+01/09/2021-11:45:22.146100  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:38357 -> 192.168.222.2:53
+01/09/2021-11:45:22.146314  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:43845 -> 192.168.222.2:53
+01/09/2021-11:45:27.673011  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:42475 -> 192.168.222.2:53
+01/09/2021-11:45:27.673478  [**] [1:10141:1] coupang.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:48954 -> 192.168.222.2:53
+01/09/2021-11:45:28.359954  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:49956 -> 192.168.222.2:53
+01/09/2021-11:45:28.360100  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:59805 -> 192.168.222.2:53
+01/09/2021-11:45:28.371090  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:47910 -> 192.168.222.2:53
+01/09/2021-11:45:28.410458  [**] [1:10150:1] nexon.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.222.128:42036 -> 220.95.221.49:80
+01/09/2021-11:45:28.649685  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54906 -> 192.168.222.2:53
+01/09/2021-11:45:28.649961  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:46593 -> 192.168.222.2:53
+01/09/2021-11:45:28.659492  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:44532 -> 192.168.222.2:53
+01/09/2021-11:45:28.659624  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:51166 -> 192.168.222.2:53
+01/09/2021-11:45:28.871326  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:56859 -> 192.168.222.2:53
+01/09/2021-11:45:28.871742  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:52755 -> 192.168.222.2:53
+01/09/2021-11:45:29.312439  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:59544 -> 192.168.222.2:53
+01/09/2021-11:45:29.313276  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:46816 -> 192.168.222.2:53
+01/09/2021-11:45:29.315406  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:50180 -> 192.168.222.2:53
+01/09/2021-11:45:29.315519  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:59624 -> 192.168.222.2:53
+01/09/2021-11:45:29.326674  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:40511 -> 192.168.222.2:53
+01/09/2021-11:45:29.627856  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54064 -> 192.168.222.2:53
+01/09/2021-11:45:29.628374  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:34664 -> 192.168.222.2:53
+01/09/2021-11:45:29.633032  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:50983 -> 192.168.222.2:53
+01/09/2021-11:45:29.633785  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:42858 -> 192.168.222.2:53
+01/09/2021-11:45:29.676925  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:41905 -> 192.168.222.2:53
+01/09/2021-11:45:29.677353  [**] [1:10051:1] daum.net dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:55472 -> 192.168.222.2:53
+01/09/2021-11:45:29.718738  [**] [1:10091:1] youtube.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54243 -> 192.168.222.2:53
+01/09/2021-11:45:29.719202  [**] [1:10091:1] youtube.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:56593 -> 192.168.222.2:53
+01/09/2021-11:45:29.942407  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:53912 -> 192.168.222.2:53
+01/09/2021-11:45:29.942846  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:45089 -> 192.168.222.2:53
+01/09/2021-11:45:29.960929  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:58049 -> 192.168.222.2:53
+01/09/2021-11:45:30.372157  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:50524 -> 192.168.222.2:53
+01/09/2021-11:45:30.372841  [**] [1:10151:1] nexon.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:54779 -> 192.168.222.2:53
+01/09/2021-11:45:30.545215  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:56558 -> 192.168.222.2:53
+01/09/2021-11:45:30.545349  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:43675 -> 192.168.222.2:53
+01/09/2021-11:45:31.323660  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:34130 -> 192.168.222.2:53
+01/09/2021-11:45:31.324135  [**] [1:10081:1] google.com dns query [**] [Classification: (null)] [Priority: 3] {UDP} 192.168.222.128:45285 -> 192.168.222.2:53
